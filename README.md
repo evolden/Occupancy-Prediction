@@ -10,7 +10,7 @@ Instructor: Suzanne Smith
 
 Create three decision tree models to predict occupancy in an office.
 
-Here is my [Jupyter Notebook]() or you can view the last saved state in this repo in `notebooks`.  
+Here is my [Jupyter Notebook](https://github.com/evolden/Occupancy-Prediction/blob/main/notebooks/DS260_Final_Project.ipynb) or you can view the last saved state in this repo in `notebooks`.  
 
 ## Data  
 
